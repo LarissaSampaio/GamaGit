@@ -3,6 +3,7 @@ Olá, tudo bem?
 Meu nome é Larissa,
 ...
 
+Oi Larissa, meu nome é Bruno!
 
 
 
